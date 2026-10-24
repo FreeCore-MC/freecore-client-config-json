@@ -73,7 +73,7 @@
     },
     {
      "label": "官网",
-     "value": "https://lynnhma.xyz",
+     "value": "https://freecore.cc",
      "action": "url",
       "icon_url": "https://ghproxy.net/https://raw.githubusercontent.com/google/material-design-icons/master/png/action/language/materialiconsoutlined/48dp/1x/outline_language_black_48dp.png",
       "icon_url": "https://ghproxy.net/https://raw.githubusercontent.com/google/material-design-icons/master/png/action/language/materialiconsoutlined/48dp/1x/outline_language_black_48dp.png",
@@ -102,7 +102,7 @@
     },
     {
      "label": "个人中心",
-     "value": "https://account.lynnhma.xyz",
+     "value": "https://account.freecore.cc",
      "action": "url",
       "icon_url": "https://ghproxy.net/https://raw.githubusercontent.com/google/material-design-icons/master/png/action/account_box/materialiconsoutlined/48dp/1x/outline_account_box_black_48dp.png",
       "icon_url": "https://ghproxy.net/https://raw.githubusercontent.com/google/material-design-icons/master/png/action/account_box/materialiconsoutlined/48dp/1x/outline_account_box_black_48dp.png",
@@ -147,7 +147,7 @@
   "main_menu_buttons": [
     {
       "label": "加入游戏（主线路）",
-      "value": "mc.lynnhma.xyz",
+      "value": "mc.freecore.cc",
       "action": "server",
       "style": "primary",
       "subtitle": "FreeCore",
@@ -167,10 +167,10 @@
     },
     {
       "label": "加入游戏（移动线路）",
-      "value": "yd.lynnhma.xyz",
+      "value": "yd.freecore.cc",
       "action": "server",
       "style": "primary",
-      "subtitle": "yd.lynnhma.xyz",
+      "subtitle": "yd.freecore.cc",
       "icon_url": "https://ghproxy.net/https://raw.githubusercontent.com/google/material-design-icons/master/png/av/play_arrow/materialiconsoutlined/48dp/1x/outline_play_arrow_black_48dp.png",
       "background": "#090909",
       "background_hover": "#202020",
@@ -187,11 +187,11 @@
     },
     {
      "label": "加入游戏（联通线路）",
-     "value": "lt.lynnhma.xyz",
+     "value": "lt.freecore.cc",
      "action": "server",
       "icon_url": "https://ghproxy.net/https://raw.githubusercontent.com/google/material-design-icons/master/png/av/play_arrow/materialiconsoutlined/48dp/1x/outline_play_arrow_black_48dp.png",
       "style": "primary",
-      "subtitle": "lt.lynnhma.xyz",
+      "subtitle": "lt.freecore.cc",
       "background": "#090909",
       "background_hover": "#202020",
       "border": "#E0E0E0",
@@ -207,10 +207,10 @@
     },
     {
       "label": "加入游戏（电信线路）",
-      "value": "dx.lynnhma.xyz",
+      "value": "dx.freecore.cc",
       "action": "server",
       "style": "primary",
-      "subtitle": "dx.lynnhma.xyz",
+      "subtitle": "dx.freecore.cc",
       "icon_url": "https://ghproxy.net/https://raw.githubusercontent.com/google/material-design-icons/master/png/av/play_arrow/materialiconsoutlined/48dp/1x/outline_play_arrow_black_48dp.png",
       "background": "#090909",
       "background_hover": "#202020",
@@ -247,7 +247,7 @@
     },
     {
      "label": "官网",
-     "value": "https://lynnhma.xyz",
+     "value": "https://freecore.cc",
      "action": "url",
       "icon_url": "https://ghproxy.net/https://raw.githubusercontent.com/google/material-design-icons/master/png/action/language/materialiconsoutlined/48dp/1x/outline_language_black_48dp.png",
       "style": "secondary",
@@ -266,7 +266,7 @@
     },
     {
      "label": "个人中心",
-     "value": "https://account.lynnhma.xyz",
+     "value": "https://account.freecore.cc",
      "action": "url",
       "icon_url": "https://ghproxy.net/https://raw.githubusercontent.com/google/material-design-icons/master/png/action/account_box/materialiconsoutlined/48dp/1x/outline_account_box_black_48dp.png",
       "style": "secondary",
