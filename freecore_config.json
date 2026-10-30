@@ -1,7 +1,7 @@
 {
   "window_title": "FreeCore - 自由核心",
-  "icon_url": "https://gitee.com/freecore-mc/freecore-client-config-json/raw/main/freecore-client-config-json/main/icon.png",
-  "logo_url": "https://gitee.com/freecore-mc/freecore-client-config-json/raw/main/freecore-client-config-json/main/logo.png",
+  "icon_url": "https://gitee.com/freecore-mc/freecore-client-config-json/raw/main/icon.png",
+  "logo_url": "https://gitee.com/freecore-mc/freecore-client-config-json/raw/main/logo.png",
   "theme_color": "black_and_white",
   "loading_screen_enabled": true,
   "loading_screen_color": -16777216,
@@ -228,7 +228,7 @@
       "action": "singleplayer",
       "style": "secondary",
       "subtitle": "进入本地世界",
-      "icon_url": "https://gitee.com/freecore-mc/freecore-client-config-json/raw/main/freecore-client-config-json/main/computer_white.png",
+      "icon_url": "https://gitee.com/freecore-mc/freecore-client-config-json/raw/main/computer_white.png",
       "background": "#151515",
       "background_hover": "#282828",
       "border": "#686868",
